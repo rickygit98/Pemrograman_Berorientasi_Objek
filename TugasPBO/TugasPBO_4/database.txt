@@ -1,0 +1,3 @@
+Nuri,Surabaya,23434523,Nuri@Surabaya.com
+Trio,Bogor,24623457,Trio@Bogor.com
+Budi,Sidoarjo,8443467,Budi@Sidoarjo.com

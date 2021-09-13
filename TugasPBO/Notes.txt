@@ -1,0 +1,19 @@
+Aplikasi Service Mobil
+Aplikasi ini berfungsi untuk menerima order service mobil. Macam service adalah sebagai berikut.
+• Service Ringan Rp. 250.000
+• Service Sedang Rp. 500.000
+• Service Berat Rp. 750.000
+Jenis mobil adalah sebagai berikut
+• Manual Rp. +150.000
+• Matic Rp. +300.000
+Merk mobil adalah sebagai berikut
+• Daihatsu Rp. +50.000
+• Izusu Rp. +75.000
+• Wuling Rp. +100.000
+• Honda Rp. +150.000
+• Suzuki Rp. +175.000
+
+Silahkan diisi nama pemilik dan NIK, dan silahkan pilih macam service, jenis mobil, dan jenis merknya. Total biaya service adalah Macam Service + Jenis Mobil + Merk Mobil. Ada beberapa tombol penting pada aplikasi ini, yaitu
+• Pesanan Baru artinya tombol buat membersihkan semua pesanan. Setiap belanjaan baru, maka kode pesanan dibuat baru secara otomatis, bersifat unik, dan menjadi kunci utama data (primary key).
+• Simpan artinya data yang terentri akan disimpan pada basis data.
+• Update artinya tombol buat mengubah service dari status aktif dikerjakan menjadi selesai. Daftar service tertampilkan pada Tabel di Aplikasi dan tersimpan di basis data. Jika yang dipilih adalah status selesai, maka akan hilang dari daftar service pada tabel aplikasi dan menjadi status selesai serta terupdate pada basis data.
